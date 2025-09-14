@@ -41,23 +41,4 @@
 ---
 
 ##  โครงสร้างไฟล์หลัก
-/Assets/Scripts
-├── Enemy_Sideways.cs
-├── GameManager.cs
-├── heallth.cs
-├── HealthBar.cs
-└── PlayerMovement.cs
-
-/Assets/Animations
-├── Idle.anim
-├── Run.anim
-├── Jump.anim
-├── Hurt.anim
-└── Die.anim
-
-/Assets/UI
-├── GameOverPanel.prefab
-├── HealthBar.prefab
-└── Button.prefab
-
 
